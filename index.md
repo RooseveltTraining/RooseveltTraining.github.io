@@ -3,11 +3,11 @@
 \"_From Whence We Came_\"
 
 ***
-* [About](#about) 
-* [Training](#Training) 
-* [Social Media](#SocialMedia) 
-* [Testimonials](#Testimonials) 
-* [Contact](#Contact)
+[About -](#about) 
+[Training -](#Training) 
+[Social Media -](#SocialMedia) 
+[Testimonials -](#Testimonials) 
+[Contact](#Contact)
 
 ***
 
