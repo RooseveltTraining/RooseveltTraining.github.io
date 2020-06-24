@@ -100,7 +100,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 #### * Parking
 
-### -Services
+### -Services and Pricing
 
 #### * Free Consultation
 
