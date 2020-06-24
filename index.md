@@ -77,54 +77,33 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *   Philosophy
 
 *   What to Expect in a Training Session
-
-   *   Before you arrive
-
-   *   Warm up
-
-   *   Myofascial Release
-
-   *   Main Workout
-
-   *   Cool Down and Stretches
-
-   *   Follow Up
+    *   Before you arrive
+    *   Warm up
+    *   Myofascial Release
+    *   Main Workout
+    *   Cool Down and Stretches
+    *   Follow Up
 
 *   Benefits of My Training Style
-
-   *   Physical benefits
-
-   *   Mental Well Being
-
-   *   Long Term Health
-   
-   *   How to get the most out of your sessions
+    *   Physical benefits
+    *   Mental Well Being
+    *   Long Term Health
+    *   How to get the most out of your sessions
 
 *   Facilities
-
-   *   Location
-
-   *   Equipment
-
-   *   Comfort
-
-   *   Restrooms
-
-   *   Versatility
-
-   *   Privacy
-
-   *   Parking
+    *   Location
+    *   Equipment
+    *   Comfort
+    *   Restrooms
+    *   Versatility
+    *   Privacy
+    *   Parking
 
 *   Services and Pricing
-
-   *   Free Consultation
-
-   *   Online Coaching
-
-   *   In Person Coaching
-
-   *   Schedule an appointment
+    *   Free Consultation
+    *   Online Coaching
+    *   In Person Coaching
+    *   Schedule an appointment
 
 ***
 
