@@ -48,6 +48,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
     <li><a href="/projects/markdown/Roosevelt Training/" title="Contact Info">Contact Info</a></li>
 </ul>
 
+***
+
 ## __About__
   
 ### -Origins
@@ -61,6 +63,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### -Philosophy
 
 ### -Focus
+
+***
 
 ## __Training__
 
@@ -116,9 +120,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 #### * Schedule an appointment
 
+***
+
 ## __Social Media__
 
+***
+
 ## __Testimonials__
+
+***
 
 ## __Contact Info__
 
