@@ -1,25 +1,17 @@
-
-*   [Overview](#overview)
-    *   [Philosophy](#philosophy)
-    *   [Inline HTML](#html)
-
 # __Roosevelt Training__
 
 ## _From Whence We Came_
 
 ***
-
-<ul id="ProjectSubmenu">
-    <li><a href="/projects/markdown/Roosevelt Training/" title="About">About</a></li>
-    <li><a href="/projects/markdown/Roosevelt Training/" title="Training">Training</a></li>
-    <li><a href="/projects/markdown/Roosevelt Training/" title="Social Media">Social Media</a></li>
-    <li><a href="/projects/markdown/Roosevelt Training/" title="Testimonials">Testimonials</a></li>
-    <li><a href="/projects/markdown/Roosevelt Training/" title="Contact Info">Contact Info</a></li>
-</ul>
+* [About](#about) 
+* [Training](#Training) 
+* [Social Media](#SocialMedia) 
+* [Testimonials](#Testimonials) 
+* [Contact](#Contact)
 
 ***
 
-## __About__
+<h3 id="About">About</h3>
   
 *   Origins
 
@@ -33,9 +25,11 @@
 
 *   Focus
 
+
+
 ***
 
-## __Training__
+<h3 id="Training">Training</h3>
 
 *   Philosophy
 
@@ -68,13 +62,13 @@
 
 ***
 
-## __Social Media__
+<h3 id="SocialMedia">Social Media</h3>
 
 ***
 
-## __Testimonials__
+<h3 id="Testimonials">Testimonials</h3>
 
 ***
 
-## __Contact Info__
+<h3 id="Contact">Contact</h3>
 
