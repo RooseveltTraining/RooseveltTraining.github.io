@@ -40,8 +40,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## _From Whence We Came_
 
-## About
+## __About Training Nutrition Social Media Testimonials Contact Info__
 
+## About
+  
 ### Origins
 
 ### Education
@@ -79,10 +81,32 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 #### Mental Well Being
 
 #### Long Term Health
-
+   
 #### How to get the most out of your sessions
 
-## Services
+### Facilities
+
+#### Location
+
+##### Address
+
+##### Front yard picture
+
+#### Gym
+
+##### Equipment
+
+##### Comfort
+
+##### Restrooms
+
+##### Versatility
+
+##### Privacy
+
+##### Parking
+
+### Services
 
 #### Free Consultation
 
@@ -91,28 +115,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 #### In Person Coaching
 
 #### Schedule an appointment
-
-## Facilities
-
-### Location
-
-#### Address
-
-#### Front yard picture
-
-### Gym
-
-#### Equipment
-
-#### Comfort
-
-#### Restrooms
-
-#### Versatility
-
-#### Privacy
-
-#### Parking
 
 ## Nutrition
 
