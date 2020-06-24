@@ -40,81 +40,75 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## _From Whence We Came_
 
-## __About Training Nutrition Social Media Testimonials Contact Info__
+## __About  Training  Nutrition  Social Media  Testimonials  Contact Info__
 
 ## About
   
-### Origins
+### -Origins
 
-### Education
+### -Education
 
-### Experience
+### -Experience
 
-### Goals
+### -Goals
 
-### Philosophy
+### -Philosophy
 
-### Focus
+### -Focus
 
 ## Training
 
-### Philosophy
+### -Philosophy
 
-### What to Expect in a Training Session
+### -What to Expect in a Training Session
 
-#### Before you arrive
+#### * Before you arrive
 
-#### Warm up
+#### * Warm up
 
-#### Myofascial Release
+#### * Myofascial Release
 
-#### Main Workout
+#### * Main Workout
 
-#### Cool Down and Stretches
+#### * Cool Down and Stretches
 
-#### Follow Up
+#### * Follow Up
 
-### Benefits of My Training Style
+### -Benefits of My Training Style
 
-#### Physical benefits
+#### * Physical benefits
 
-#### Mental Well Being
+#### * Mental Well Being
 
-#### Long Term Health
+#### * Long Term Health
    
-#### How to get the most out of your sessions
+#### * How to get the most out of your sessions
 
-### Facilities
+### -Facilities
 
-#### Location
+#### * Location
 
-##### Address
+#### * Equipment
 
-##### Front yard picture
+#### * Comfort
 
-#### Gym
+#### * Restrooms
 
-##### Equipment
+#### * Versatility
 
-##### Comfort
+#### * Privacy
 
-##### Restrooms
+#### * Parking
 
-##### Versatility
+### -Services
 
-##### Privacy
+#### * Free Consultation
 
-##### Parking
+#### * Online Coaching
 
-### Services
+#### * In Person Coaching
 
-#### Free Consultation
-
-#### Online Coaching
-
-#### In Person Coaching
-
-#### Schedule an appointment
+#### * Schedule an appointment
 
 ## Nutrition
 
