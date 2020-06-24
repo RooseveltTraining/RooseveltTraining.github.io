@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## __About  Training  Nutrition  Social Media  Testimonials  Contact Info__
 
-## About
+## __About__
   
 ### -Origins
 
@@ -56,7 +56,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### -Focus
 
-## Training
+## __Training__
 
 ### -Philosophy
 
@@ -110,11 +110,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 #### * Schedule an appointment
 
-## Nutrition
+## __Nutrition__
 
-## Social Media
+## __Social Media__
 
-## Testimonials
+## __Testimonials__
 
-## Contact Info
+## __Contact Info__
 
