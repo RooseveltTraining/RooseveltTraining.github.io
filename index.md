@@ -36,9 +36,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+*   [Overview](#overview)
+    *   [Philosophy](#philosophy)
+    *   [Inline HTML](#html)
+
 # __Roosevelt Training__
 
 ## _From Whence We Came_
+
+***
 
 <ul id="ProjectSubmenu">
     <li><a href="/projects/markdown/Roosevelt Training/" title="About">About</a></li>
@@ -52,73 +58,73 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## __About__
   
-### -Origins
+*   Origins
 
-### -Education
+*   Education
 
-### -Experience
+*   Experience
 
-### -Goals
+*   Goals
 
-### -Philosophy
+*   Philosophy
 
-### -Focus
+*   Focus
 
 ***
 
 ## __Training__
 
-### -Philosophy
+*   Philosophy
 
-### -What to Expect in a Training Session
+*   What to Expect in a Training Session
 
-#### * Before you arrive
+   *   Before you arrive
 
-#### * Warm up
+   *   Warm up
 
-#### * Myofascial Release
+   *   Myofascial Release
 
-#### * Main Workout
+   *   Main Workout
 
-#### * Cool Down and Stretches
+   *   Cool Down and Stretches
 
-#### * Follow Up
+   *   Follow Up
 
-### -Benefits of My Training Style
+*   Benefits of My Training Style
 
-#### * Physical benefits
+   *   Physical benefits
 
-#### * Mental Well Being
+   *   Mental Well Being
 
-#### * Long Term Health
+   *   Long Term Health
    
-#### * How to get the most out of your sessions
+   *   How to get the most out of your sessions
 
-### -Facilities
+*   Facilities
 
-#### * Location
+   *   Location
 
-#### * Equipment
+   *   Equipment
 
-#### * Comfort
+   *   Comfort
 
-#### * Restrooms
+   *   Restrooms
 
-#### * Versatility
+   *   Versatility
 
-#### * Privacy
+   *   Privacy
 
-#### * Parking
+   *   Parking
 
-### -Services and Pricing
+*   Services and Pricing
 
-#### * Free Consultation
+   *   Free Consultation
 
-#### * Online Coaching
+   *   Online Coaching
 
-#### * In Person Coaching
+   *   In Person Coaching
 
-#### * Schedule an appointment
+   *   Schedule an appointment
 
 ***
 
