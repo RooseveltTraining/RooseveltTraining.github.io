@@ -40,7 +40,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## _From Whence We Came_
 
-## __About  Training  Nutrition  Social Media  Testimonials  Contact Info__
+<ul id="ProjectSubmenu">
+    <li><a href="/projects/markdown/Roosevelt Training/" title="About">About</a></li>
+    <li><a href="/projects/markdown/Roosevelt Training/" title="Training">Training</a></li>
+    <li><a href="/projects/markdown/Roosevelt Training/" title="Social Media">Social Media</a></li>
+    <li><a href="/projects/markdown/Roosevelt Training/" title="Testimonials">Testimonials</a></li>
+    <li><a href="/projects/markdown/Roosevelt Training/" title="Contact Info">Contact Info</a></li>
+</ul>
 
 ## __About__
   
@@ -109,8 +115,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 #### * In Person Coaching
 
 #### * Schedule an appointment
-
-## __Nutrition__
 
 ## __Social Media__
 
