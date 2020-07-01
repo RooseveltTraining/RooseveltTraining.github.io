@@ -1,7 +1,5 @@
 ![roosevelt outdoor athletic society logo](Images/roosevelt_logo_1_black_on_white_cropped.png)
 
-# __Roosevelt Training__
-
 \"_From Whence We Came_\"
 
 ***
