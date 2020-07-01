@@ -1,4 +1,4 @@
-![roosevelt outdoor athletic society logo](Images/Roosevelt_logo_1_black_and_white.png)
+![roosevelt outdoor athletic society logo](Images/roosevelt_logo_1_black_on_white_cropped.png)
 
 # __Roosevelt Training__
 
